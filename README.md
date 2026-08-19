@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://i.imgur.com/eqt8UrG.gif" weight=1020 height=440>
 <br/>
 
 Hello! My name is k2ec. I'm beggining developer C++.
