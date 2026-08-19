@@ -15,8 +15,4 @@ Hello! My name is k2ec. I'm beggining developer C++.
 <br/>
 󠁯•󠁏󠁏 My discord: cryfall0. Telegram ID: **8448879506**
 <br/>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bye!🙋‍♂️;" />
-
-
-
+![](https://github-readme-stats.shion.dev/api?username=k2ec&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
